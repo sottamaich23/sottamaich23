@@ -65,14 +65,6 @@ Firewalls • IDS/IPS • VPN • Cisco Networking • Linux (CentOS) • Window
 
 ---
 
-## 📊 GitHub Analytics  
-
-![Sottam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sottamaich23&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sottamaich23&theme=tokyonight)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sottamaich23&theme=tokyo-night)
-
----
-
 ## 🌱 Currently Exploring  
 
 🚀 **Next.js** for scalable full-stack app development  
